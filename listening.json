@@ -1,0 +1,117 @@
+{
+  "resorces": {
+    "gordontraining": {
+      "Title": "Parent Effectiveness Training",
+      "Author": "Dr. Thomas Gordon",
+      "Type": "organization",
+      "Link": "http://www.gordontraining.com/parent-programs/parent-effectiveness-training-p-e-t/"
+    },
+    "cnvc": {
+      "Title": "Nonviolent Communication",
+      "Author": "Marshall Rosenberg",
+      "Type": "organization",
+      "Link": "https://www.cnvc.org/"
+    },
+    "clearing-withholds": {
+      "Title": "Clearing Withholds",
+      "Type": "guide",
+      "Link": "http://w15.hai.org/clearing-withholds/"
+    },
+    "could-you-go-40-days-without-being-mean": {
+      "Title": "Could You Go 40 Days Without Being Mean",
+      "Author": "Sarah Miller",
+      "Type": "essay",
+      "Link": "http://nymag.com/thecut/2015/01/could-you-go-40-days-without-being-mean.html"
+    },
+    "let-go-of-the-need-to-be-mean": {
+      "Title": "Let Go Of The Need To Be Mean",
+      "Author": "Starcat",
+      "Type": "essay",
+      "Link": "http://www.starcatscorner.com/2015/03/let-go-of-the-need-to-be-mean/"
+    },
+    "family-dharma-right-speech-reconsidered": {
+      "Title": "Right Speech Reconsidered",
+      "Author": "Starcat",
+      "Type": "essay",
+      "Link": "https://tricycle.org/trikedaily/family-dharma-right-speech-reconsidered/"
+    },
+    "sorrywatch": {
+      "Title": "Sorry Watch",
+      "Type": "organization",
+      "Link": "http://www.sorrywatch.com/"
+    },
+    "Harriet-Youll-Drive-Me-Wild": {
+      "Title": "Harriet, You'll Drive Me Wild",
+      "Author": "Mem Fox",
+      "Type": "book",
+      "Link": "https://www.amazon.com/Harriet-Youll-Drive-Me-Wild/dp/0152045988"
+    },
+    "unorthodox56235520": {
+      "Title": "Unorthodox Appology Episodes",
+      "Type": "audio",
+      "Link": "https://www.stitcher.com/podcast/panoply/unorthodox/e/56235520"
+    },
+    "yamani-saying": {
+      "Title": "Yamani Saying",
+      "Author": "Tamora Pierce",
+      "Type": "quote"
+    },
+    "David-and-Goliath": {
+      "Title": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
+      "Author": "Malcolm Gladwell",
+      "Type": "quote"
+    },
+    "Words-That-Hurt-Heal-Choose": {
+      "Title": "Words That Hurt Words That Heal",
+      "Author": "Joseph Telushkin",
+      "Link": "https://www.amazon.com/Words-That-Hurt-Heal-Choose/dp/0688163505",
+      "Type": "book"
+    },
+    "LostNPRQuoteUseOfWe": {
+      "Title": "The use of the word we.",
+      "Type": "audio"
+    },
+    "once-more-with-feeling": {
+      "Title": "once-more-with-feelin",
+      "Link": "https://www.thisamericanlife.org/603/once-more-with-feeling/act-two",
+      "Type": "audio",
+      "Author": "Michael Pitre",
+      "Description": "Producer Stephanie Foo talks to veteran Michael Pitre, who had to change the way he talked about his experiences in the military after he realized the effect it was having on people. Michael is author of the novel \"Fives and Twenty-Fives.\" (20 minutes)"
+    },
+    "accidental-gay-parents": {
+      "Link": "https://longestshortesttime.com/tag/accidental-gay-parents/"
+    }
+  },
+  "concepts": [
+    "Not failing vs Being Brave",
+    "Being Truthful",
+    "Not causing harm",
+    "Intent, excution, outcome"
+  ],
+  "quotes": [
+    {
+      "text": "You need never unsay anything that you did not say in the first place.",
+      "source": "yamani-saying"
+    },
+    {
+      "text": "In 2003, a police officer named Joanne Jaffe took over as head of the city’s Housing Bureau, the group with primary responsibility for the Brownsville projects. She decided to try something new. Jaffe began by making a list of all of the juveniles in Brownsville who had been arrested at least once in the previous twelve months. That search yielded 106 names, corresponding to 180 arrests. Jaffe’s assumption was that anyone arrested for a mugging had probably committed somewhere between twenty and fifty other crimes that never came to the attention of the police, so by her rule of thumb, her 106 juveniles were responsible for as many as five thousand crimes in the previous year. She then put together a task force of police officers and had them contact every name on the list. “We said to them, ‘You’re in the program,’ ” Jaffe explained. “ ‘And the program is that we’re going to give you a choice. We want to do everything we can to get you back in school, to help you get a high school diploma, to bring services to your family, find out what’s needed in the household. We will provide job opportunities, educational opportunities, medical—everything we can. We want to work with you. But the criminal conduct has to stop. And if it doesn’t stop and you get arrested for anything, we’re going to do everything to keep you in jail. I don’t care how minor it is. We are going to be all over you.’ ” The program was called J-RIP, for Juvenile Robbery Intervention Program. There was nothing complicated about it—at least on the surface. J-RIP was standard-issue, high-intensity modern policing. Jaffe put her J-RIP task force in a trailer in the parking lot of a housing project, not off in a station house somewhere. She made every surveillance tool available to her J-RIP team. They made lists of each J-RIPper’s associates—the people they had been arrested with. They went on Facebook and downloaded photos of their friends and looked for gang affiliations. They talked to brothers and sisters and mothers, and they put together giant, poster-size maps showing the networks of friendships and associations that surrounded each person—the same way an intelligence organization might track the movements of suspected terrorists. “I have people out there 24/7,” Jaffe said. “So when a J-RIPper is arrested, I’m willing to send in a team if I have to. I don’t care if it’s the Bronx, or the middle of the night. There have got to be dire consequences. They’ve got to know what’s going to happen. It’s got to be swift. If you get arrested, you’re going to see my face.” She went on, “I tell them, ‘You can slam the door when I come to your house. But I’ll see you on the street. I’ll say hello to you. I’ll learn everything about you. You go from Brooklyn to the Bronx, I’ll know what trains you take.’ We say to someone, ‘Johnnie, come into the J-RIP office tomorrow,’ and Johnnie comes in, and we say, ‘You were stopped in the Bronx last night. You got a summons.’ He says, ‘What?’ ‘You were with Raymond Rivera and Mary Jones.’ ‘How do you know that?’ They started thinking we were all over the place. Since we had developed a folder on each kid, we’d show them what we had on them. We’d say, ‘These are all your buddies. Here’s all your information. Here are your pictures. We know you’re part of this development. We know you might be a part of a crew. We know your world.’ We started learning about where they’re supposed to go to school, who they’re hanging out with at school. When they’re not in school, we get a call. So my J-RIP team goes out and wakes them up and says, ‘Get up!’ ” But this was only part of Jaffe’s strategy. She also did things that don’t sound like typical policing strategy. She spent a lot of time, for example, finding the right kind of officer to serve on the task force. “I couldn’t put just any cop in there,” she said, sounding more like a social worker than a police chief. “I had to have a cop that loves kids. I had to have a cop that didn’t have an ounce of negativity about them, and who had the ability to help sway kids and push them in the right direction.” To head the group, she finally settled on David Glassberg, a gregarious former narcotics officer with children of his own. She was also obsessed, from the very beginning, with meeting the families of her J-RIPpers. She wanted to know them. It turned out to be surprisingly difficult. In her first attempt, she sent letters to every home, inviting the families to come to a local church for a group session. No one showed up. Then Jaffe and her team went door-to-door. Once again, they got nowhere. “We ended up going to each family, one hundred and six kids,” she said. “They would say, ‘Fuck you. Don’t come into my house.’ ” The breakthrough finally came months into the program. “There’s this one kid,” Jaffe said. She made up a name for him: Johnnie Jones. “He was a bad kid. He was fourteen, fifteen then. He lived with a seventeen- or eighteen-year-old sister. His mother lived in Queens. Even the mother hated us. There was no one for us to reach out to. So now, November of the first year, 2007, Dave Glassberg comes to my office, Wednesday before Thanksgiving. “He says, ‘All the guys, all the people on the team, chipped in and we bought Johnnie Jones and his family Thanksgiving dinner tonight.’ “And I said, ‘You’re kidding.’ This was a bad kid. “And he goes, ‘You know why we did it? This is a kid that we’re gonna lose but there are seven other kids in that family. We had to do something for them.’ “I had tears in my eyes. Then he said, ‘Well, we have all these other families. What are we going to do?’ It’s ten a.m., day before Thanksgiving, and I said, ‘Dave, what if I go to the police commissioner and see if I can get two thousand bucks and see if we can buy a turkey for every family? Could we do it?’ ” She went upstairs to the executive level of police headquarters, and begged for two minutes with the police commissioner. “I said, ‘This is what Dave Glassberg did with the team. I want to buy a hundred and twenty-five turkeys. Can I get money somewhere?’ He said yes. Glassberg put his men on overtime. They found frozen turkeys and refrigerated trucks, and that night went door-to-door in the Brownsville projects. We put them in a bag, and we did a flyer: ‘From our family to your family, Happy Thanksgiving.’ ” Jaffe was sitting in her office at New York police headquarters in downtown Manhattan. She was in full uniform—tall and formidable, with a head of thick black hair and more than a hint of Brooklyn in her voice. “We’d knock,” she continued. “Momma or Grandma would open the door and say, ‘Johnnie, the police are here’—just like that. I’d say, ‘Hi, Mrs. Smith, I’m Chief Jaffe. We have something for you for Thanksgiving. We just want to wish you a happy Thanksgiving.’ And they’d be, ‘What is this?’ And they’d say, ‘Come in, come in,’ and they would drag you in, and the apartments were so hot, I mean, and then, ‘Johnnie, come here, the police are here!’ And there’s all these people running around, hugging and crying. Every family—I did five—there was hugging and crying. And I always said the same thing: ‘I know sometimes you can hate the police. I understand all that. But I just want you to know, as much as it seems that we’re harassing you by knocking on your door, we really do care, and we really do want you to have a happy Thanksgiving.’ ” Now, why was Jaffe so obsessed with meeting her J-RIPpers’ families? Because she didn’t think the police in Brownsville were perceived as legitimate. Across the United States, an astonishing number of black men have spent some time in prison. (To give you just one statistic, 69 percent of black male high school dropouts born in the late seventies have done time behind bars.) Brownsville is a neighborhood full of black male high school dropouts, which means that virtually every one of those juvenile delinquents on Jaffe’s list would have had a brother or a father or a cousin who had served time in jail.* If that many people in your life have served time behind bars, does the law seem fair anymore? Does it seem predictable? Does it seem like you can speak up and be heard? What Jaffe realized when she came to Brownsville was that the police were seen as the enemy. And if the police were seen as the enemy, how on earth would she be able to get fifteen-and sixteen-year-olds— already embarked on a course of mugging and stealing—to change their ways? She could threaten them and warn them of the dire consequences of committing more crimes. But these were teenagers, stubborn and defiant by nature, who had already drifted into a life of crime. Why should they listen to her? She represented the institution that had put their fathers and brothers and cousins in prison. She needed to win back the respect of the community, and to do that, she needed the support of the families of her J-RIPpers. Her little speech on that first Thanksgiving—I know sometimes you can hate the police. I understand all that. But I just want you to know, as much as it seems that we’re harassing you by knocking on your door, we really do care, and we really do want you to have a happy Thanksgiving—was a plea for legitimacy. She was trying to get families who had been on the wrong side of the law—sometimes for generations—to see that the law could be on their side. After the success with the turkeys, Jaffe started Christmas-toy giveaways. The J-RIP task force started playing basketball with their young charges. They took them out for sushi dinners. They tried to get them summer jobs. They drove them to doctor appointments. Then Jaffe started a Christmas dinner, where every J-RIPper was invited along with his entire family. “You know what I do at the Christmas dinner with my J-RIP kids?” Jaffe said. “They act all tough in front of their friends. So I hug each one of them. It’s always ‘Come on. Let’s hug.’ ” Jaffe is not a small woman. She is strong and imposing. Imagine her approaching some skinny teenager with her arms wide open. A hug from her would swallow him up. This sounds like something out of a bad Hollywood movie, doesn’t it? Turkeys on Thanksgiving! Hugging and crying! The reason most police departments around the world haven’t followed Jaffe’s lead is that what she did doesn’t seem right. Johnnie Jones was a bad kid. Buying food and toys for people like him seems like the worst form of liberal indulgence. If the police chief in your town announced, in the face of a major crime wave, that she was going to start hugging and feeding the families of the criminals roaming the streets, you’d be speechless—right? Well, take a look at what happened in Brownsville. When Leites and Wolf wrote that “influencing popular behavior requires neither sympathy nor mysticism,” they meant that the power of the state was without limits. If you wanted to impose order, you didn’t have to worry about what those whom you were ordering about thought of you. You were above that. But Leites and Wolf had it backwards. What Jaffe proved was that the powerful have to worry about how others think of them—that those who give orders are acutely vulnerable to the opinions of those whom they are ordering about.",
+      "source": "David-and-Goliath"
+    },
+    {
+      "text": "Recently, I witnessed this principle at work in my own family. One day, our five-year-old daughter Naomi was in a weepy mood, and in a moment of frustration, my wife, Dvorah, yelled at her, \"I hate it when you keep crying over nothing! It hurts my ears. If you can't stop crying, I will have to leave you at home!\" The next morning at breakfast, Shira, Naomi's three-year-old sister, started crying. Naomi stuffed both fingers in her ears, and screamed at her sister: \"I hate it when you cry! It hurts my ears. If you have to cry, go into the other room.\" Dvorah was dumbstruck. Naomi had exactly replicated her impatient tone, her chiding, even some of her words. Embarrassed, and eager to show Naomi a better response, she went over to the crying Shira, sat her on her lap, and said, \"Mommy's sorry she forgot to wait for you to add the blueberries to the pancakes. I never want to make you cry. I'm just going to sit by you until all baby Shira's tears go away.\" Naomi carefully studied this exchange, and during the coming days and weeks, Dvorak made a point of repeating such compassionate reassurance whenever she saw Naomi or any of our other children crying. Some time later, our youngest child, two-year-old Benjamin, kicked Shira, prompting a fit of wailing. This time Naomi sat down beside her hurt sister and said comfortingly, \"It's okay, Shira. No more crying. I'm going to sit right here for the whole night and wait for you to stop.\"",
+      "source": "Words-That-Hurt-Heal-Choose"
+    },
+    {
+      "text": "Those of us with AIDS...",
+      "source": "LostNPRQuoteUseOfWe"
+    },
+    {
+      "text": "What do I know?, Who needs to know it?, and Have I told them?",
+      "source": "once-more-with-feeling"
+    },
+    {
+      "text": "~You want to say your safe now",
+      "source": "accidental-gay-parents"
+    }
+  ]
+}
